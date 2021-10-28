@@ -1,0 +1,15 @@
+{
+    "name": "Noob Coder",
+    "tagline": "This is my website, world's best website ever made.",
+    "about": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis autem nihil vitae voluptas ullam, eligendi explicabo nostrum commodi, dolore tenetur dicta quam aut quod beatae necessitatibus quas molestiae natus ipsum earum. Tempore quasi esse ea corrupti eum tempora sapiente labore, dolor expedita error facilis. Eligendi, maxime. Sequi modi nihil ullam?",
+    "contact": "dev.anmolsharma@gmail.com",
+    "projects": [
+        {
+            "name": "Blog Website",
+            "description": "This was my first website created in Bootstrap 5",
+            "image": "/images/projectImage.jpeg",
+            "hosted": "https://coder-anmol.github.io/Blog",
+            "repoLink": "https://github.com/coder-anmol/Blog"
+        }
+    ]
+}
