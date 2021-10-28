@@ -13,4 +13,10 @@ router.get("/api", async function (req, res) {
     res.json(data);
 });
 
+router.get("/:path", (req, res) => {
+    res.send({
+        status: "failed",
+        requestPath: req.params.path,
+    }).sendStatus(404);
+});
 module.exports = router;
